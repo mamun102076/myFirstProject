@@ -1,5 +1,7 @@
 public class hello{
-	system.out.println("VS code is awesome")
+	system.out.println("VS code is awesome");
+	added some new code
+
 
 }
 
