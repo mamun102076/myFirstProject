@@ -1,0 +1,131 @@
+@media only screen and (max-width: 1200px) {
+  	.slide-area{
+		flex-direction: column;
+		margin: 0 10px;
+	}
+	.slide-left{
+		margin: 0 20px;
+	}
+	.slide-right{
+		margin: 0 20px;
+	}
+	.sylebus-section{
+		margin: 90px 40px 45px 10px;
+	}
+	.book-section{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.single-book-item .book-image{
+		padding: 20px 20px;
+	}
+	.footer-list{
+		padding-left: 30px;
+	}
+	.single-footer-item{
+		margin-right: 30px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+ 	.nav-link{
+		padding: 5px 4px !important;
+	}
+	.book-section{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.footer-list{
+		padding-left: 30px;
+	}
+	.single-footer-item{
+		margin-right: 30px;
+	}
+} 
+
+@media only screen and (max-width: 767px) {
+	
+	.navbar-nav,.login-btn{
+		margin-top: 20px;
+	}
+	.navbar-nav{
+		background: #fff;
+	}
+	.dropdown-menu{
+		display: block;
+	}
+	.nav-item:hover{
+		background: #FAFAFA;
+	}
+	.nav-item:hover .nav-link{
+		color: #3F3F3F !important;
+	}
+	.dropdown-item:hover{
+		background: #FAFAFA;
+		color: #3F3F3F;
+	}
+	.slide-area{
+		flex-direction: column;
+	}
+	.sylebus-section{
+		margin: 90px 40px 45px 80px;
+	}
+	.book-section{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.single-book-item .book-image{
+		padding: 20px 20px;
+	}
+	.footer-list{
+		flex-direction: column;
+		padding-left: 30px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	
+}
+
+@media only screen and (max-width: 600px) {
+	.navbar-nav,.login-btn{
+		margin-top: 20px;
+	}
+	.navbar-nav{
+		background: #fff;
+	}
+	.dropdown-menu{
+		display: block;
+	}
+	.nav-item:hover{
+		background: #FAFAFA;
+	}
+	.nav-item:hover .nav-link{
+		color: #3F3F3F !important;
+	}
+	.dropdown-item:hover{
+		background: #FAFAFA;
+		color: #3F3F3F;
+	}
+	.slide-area{
+		margin: 0 10px;
+	}
+	.sylebus-section{
+		margin: 90px 10px 45px 10px;
+	}
+	.single-book-item .book-image{
+		padding: 20px 20px;
+	}
+	.book-section{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.single-partner-item img{
+		height: 50px;
+	}
+	.footer-list{
+		flex-direction: column;
+		padding-left: 30px;
+	}
+	
+}
