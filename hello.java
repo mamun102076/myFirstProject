@@ -1,4 +1,5 @@
 public class hello{
-	systemout."println"
+	system.out.println("VS code is awesome")
+
 }
 
